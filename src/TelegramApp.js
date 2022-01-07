@@ -46,7 +46,7 @@ class TelegramApp extends Component {
     constructor(props) {
         super(props);
 
-        console.log(`Start Telegram Web ${packageJson.version}`);
+        console.log(`Start Reactgram Web ${packageJson.version}`);
         console.log('[auth] ctor', props.location);
 
         this.state = {

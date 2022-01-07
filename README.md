@@ -1,4 +1,4 @@
-# Telegram Web App
+# Reactgram Web App
 
 ### Interface
 ![Sample screenshot](/src/Assets/Screenshots/1x_Group.png)
