@@ -328,9 +328,10 @@ class TelegramApp extends Component {
             </React.Suspense>
         );
 
-        if (nativeMobile) {
-            page = <NativeAppPage />;
-        } else if (inactive) {
+        // if (nativeMobile) {
+        //     page = <NativeAppPage />;
+        // } else if (inactive) {
+        if (inactive) {
             page = <InactivePage />;
         } else if (state) {
             switch (state['@type']) {
