@@ -10,48 +10,48 @@
   "background_color": "#fff",
   "icons": [
     {
-      "src": "img/icons/icon16.png",
+      "src": "img/icons/favicon-16x16.png",
       "type": "image/png",
       "sizes": "16x16"
     },
     {
-      "src": "img/icons/icon32.png",
+      "src": "img/icons/favicon-32x32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "img/icons/icon60.png",
+      "src": "img/icons/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "60x60"
     },
     {
-      "src": "img/icons/icon64.png",
+      "src": "img/icons/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "64x64"
     },
     {
-      "src": "img/icons/icon90.png",
+      "src": "img/icons/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "90x90"
     },
     {
-      "src": "img/icons/icon128.png",
+      "src": "img/icons/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "img/icons/icon192.png",
+      "src": "img/icons/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "img/icons/icon512.png",
+      "src": "img/icons/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "img/icons/icon.svg",
-      "type": "image/svg+xml",
+      "src": "img/icons/android-chrome-512x512.png",
+      "type": "image/png",
       "sizes": "513x513"
     }
   ],
