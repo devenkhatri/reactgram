@@ -12,7 +12,7 @@ import QRCodeStyling from 'qr-code-styling';
 import Link from '@material-ui/core/Link';
 import Typography from '@material-ui/core/Typography';
 import HeaderProgress from '../ColumnMiddle/HeaderProgress';
-import { ReactComponent as Logo } from '../../Assets/telegram-logo.svg';
+import { ReactComponent as Logo } from '../../Assets/reactgram-logo.svg';
 import { cleanProgressStatus, isConnecting } from './Phone';
 import AppStore from '../../Stores/ApplicationStore';
 import './QRCode.css';

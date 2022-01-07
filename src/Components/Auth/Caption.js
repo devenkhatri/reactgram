@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import { ReactComponent as Logo } from '../../Assets/telegram-logo.svg';
+import { ReactComponent as Logo } from '../../Assets/reactgram-logo.svg';
 import AuthStore from '../../Stores/AuthorizationStore';
 import './Caption.css';
 
